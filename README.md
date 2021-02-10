@@ -1,3 +1,3 @@
 # Algoritmos-Numericos
 
-Este repositório contém programas desenvolvidos na disciplina de algoritmos números no periodo 2020/1.
+Este repositório contém programas desenvolvidos na disciplina de algoritmos núméricos no periodo 2020/1.
